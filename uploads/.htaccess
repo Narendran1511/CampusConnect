@@ -1,0 +1,6 @@
+# Uploaded files must never be executed as code
+RemoveHandler .php .phtml .php3 .php4 .php5 .php7 .phps
+<FilesMatch "\.(php|phtml|phar|php[0-9])$">
+  Require all denied
+</FilesMatch>
+Options -Indexes

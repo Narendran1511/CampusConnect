@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Event poster placeholder">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14284b"/><stop offset="1" stop-color="#6b46c1"/></linearGradient></defs>
+<rect width="640" height="360" fill="url(#g)"/>
+<circle cx="520" cy="70" r="120" fill="#0f9d9a" opacity=".25"/><circle cx="90" cy="320" r="150" fill="#ffffff" opacity=".06"/>
+<g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+<rect x="250" y="120" width="140" height="130" rx="14"/><path d="M250 160h140M290 105v30M350 105v30"/></g>
+<text x="320" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#fff" opacity=".9">CampusConnect Event</text>
+</svg>
